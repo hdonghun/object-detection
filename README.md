@@ -5,7 +5,7 @@
 
 <h4>✨노션</<h4>
 <div></div>
-NOTION - [https://www.notion.so/6d42ba35c01243348ed9a3a9be9b6e0a](https://www.notion.so/cfbd67ee638641b2b484dc0ceb7f313b)https://www.notion.so/cfbd67ee638641b2b484dc0ceb7f313b
+NOTION - https://www.notion.so/cfbd67ee638641b2b484dc0ceb7f313b
 
 <h4>✨프로젝트 PPT</<h4>
 <div></div>
