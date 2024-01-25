@@ -1,15 +1,28 @@
 <h2>
-<div align="center"> 두피 유형에 따른 가발 추천 서비스 프로젝트 </div>
+<div align="center"># 두피 유형에 따른 가발 추천 서비스 프로젝트
+</div>
 <h4> Object Dectection 프로젝트 </h4>
 </h2>
+
+<h4>✨서비스 소개</h4>
+
+<h4>✨기술 스택</h4>
+
+<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"><img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"><img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+
+<h4>✨툴</h4>
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white">![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+
 
 <h4>✨노션</<h4>
 <div></div>
 NOTION - https://www.notion.so/cfbd67ee638641b2b484dc0ceb7f313b
 
 <h4>✨프로젝트 PPT</<h4>
-<div></div>
-<img width="1489" alt="image" src="https://github.com/hdonghun/object-detection/assets/67058000/21bb0eb7-b293-4044-9ffe-af50596c144f">
+  <details>
+  <summary>PPT</summary>
+    <img width="1489" alt="image" src="https://github.com/hdonghun/object-detection/assets/67058000/21bb0eb7-b293-4044-9ffe-af50596c144f">
 <img width="1492" alt="image" src="https://github.com/hdonghun/object-detection/assets/67058000/0bde764c-6cda-4031-b6e0-9fd59b7a7a7d">
 <img width="1490" alt="image" src="https://github.com/hdonghun/object-detection/assets/67058000/6bc6cfb5-28d5-40e9-9440-1d49666d49cf">
 <img width="1489" alt="image" src="https://github.com/hdonghun/object-detection/assets/67058000/96bd8c96-52e5-490b-af96-09605a4e1be2">
