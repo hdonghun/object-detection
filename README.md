@@ -5,7 +5,12 @@
 </h2>
 
 <h4>✨서비스 소개</h4>
-
+  1. **프로젝트 아이디어 도출:**
+    - Problem : 가발 수요의 꾸준한 증가, 자기의 두피 타입을 모르고, 아무 가발이나 사용하다 여러가지 부작용이 발생함
+    - Solution : *소비자에게 접근성이 뛰어난 모바일 두피유형 자가진단 서비스를 제공*
+    - 소비자들의 니즈 : 비용에 국한되지 않고, 접근성이 편리하게 언제 어디서나 자가진단 서비스를 통해서, 현재의 자기 두피타입을 확인할 수 있는 부분
+2. **목표 및 범위 정의:** 
+    - 데이터 이미지 인식 기술을 이용한 자가진단을 통해, 소비자 스스로 간편하게 자기에게 맞는 타입의 가발이 무엇인지 정보를 제공하고, 더 나아가 가발 추천, 두피유형에 맞는 관리법, 샴푸등 제품을 추천해주는 서비스
 <h4>✨기술 스택</h4>
 
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"><img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"><img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
