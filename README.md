@@ -58,6 +58,9 @@ NOTION - https://www.notion.so/cfbd67ee638641b2b484dc0ceb7f313b
 <img width="1488" alt="image" src="https://github.com/hdonghun/object-detection/assets/67058000/47f6a8e0-b831-41da-83fa-eaf67c9a621a">
 <img width="1487" alt="image" src="https://github.com/hdonghun/object-detection/assets/67058000/a23702fd-3b89-4c59-90bc-cd87100c370f">
 
+<h4>✨한계점</<h4>
+코랩 환경에서 Yolov8 버전 실행시 램 터짐
+프로젝트 기간내 두피유형분류까지는 완성되었지만, 분류된 두피에 맞는 가발을 추천해주는 프로세스까지 도달하지 못하였다.
 
 
 
