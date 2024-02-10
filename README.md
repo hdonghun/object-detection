@@ -1,7 +1,7 @@
 <h2>
 <div align="center"># 두피 유형에 따른 가발 추천 서비스 프로젝트
 </div>
-<h4> Object Dectection 프로젝트 </h4>
+<h4> Object Detection 프로젝트 </h4>
 </h2>
 
 <h4>✨서비스 소개</h4>
